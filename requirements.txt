@@ -1,0 +1,4 @@
+bs4
+requests
+Django==1.8
+gunicorn==19.6.0
